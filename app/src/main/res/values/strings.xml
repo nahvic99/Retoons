@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Retoons</string>
+    <string name="TituloCard1">Ozzy y Drix</string>
+    <string name="card_content1">Un glóbulo blanco y una fría píldora se desplazan en el interior del cuerpo de un adolescente.</string>
+    <string name="title_activity_ozzy_drix">OzzyDrix</string>
+    <string name="priv">Al registrarte aceptas los Terminos y Condiciones de Retoons. Esta Aplicacion usa conexion a internet</string>
+    <string name="facebook_app_id">292895824970351</string>
+    <string name="fb_login_protocol_scheme">fb292895824970351</string>
+    <string name="father_rock">Willy Zilla es un joven de 13 años de edad, su padre es RockZilla una gran estrella de Rock, el cual tiene un comportamiento muy lunático e inmaduro con una vida llena de excentricidades, Willy a diferencia de su padre quiere llevar una vida normal asistiendo a la escuela junto a sus amigos Quincy y Alyssa.</string>
+    <string name="fr_tittle">Mi Padre el Rockero</string>
+    <string name="dgc_tittle">Doraemon el gato cosmico</string>
+    <string name="dga_tittle">Digimon Adventure</string>
+    <string name="dga">Digimon Digital Monsters, la serie centra su historia en siete niños, los cuales asisten a un campamento de verano, son arrastrados por un ola enorme, y transportados a un mundo digital donde habitan los Digimons unas monstros con poderes. Los niños elegidos junto con sus compañeros digimos tendrán que sobrepasar grandes dificultades para sobrevivir y salvar al Digimundo.</string>
+    <string name="sm_tittle">Sailor Moon</string>
+    <string name="Avatar_tittle">Avatar La Leyenda De Aang</string>
+    <string name="mfa_tittle">Mansión Foster para amigos imaginarios</string>
+    <string name="knd_tittle">KND: Los chicos del barrio</string>
+    <string name="knd">Cuenta la vida de un grupo de 5 niños (El Sector 5) que se encaran en la lucha contra la tiranía de los adolescentes y adultos que intentan imponer su disciplina y sus reglas a los niños de todo el mindo. Su residencia es en la Casa del Árbol y allí toman sus decisiones como grupo aunque reciben órdenes del comando central ubicado en la Base Lunar. Su famoso lema es Estás con nosotros o eres un viejo, y sino una más conocida Somos los chicos del Barrio.</string>
+    <string name="mfa">Un lugar llamado el hogar de Foster, es donde los amigos imaginarios de los niños, los cuales son abandonados al crecer se hospedan, eso hasta que otro niño los adopte, la serie cuenta la historia de un niño llamado Mac y su amigo imaginario Bloo, los cuales vivirán muchas aventuras.</string>
+    <string name="Avatar">En un mundo mágico destrozado por la guerra entre naciones, Aang es el nuevo Avatar, un maestro único quien es capaz de dominar los cuatro elementos, Tierra, Agua, Aire y Fuego. Tendrá la misión de restaurar la paz entre las cuatro naciones, pero antes tendrá que dominar sus poderes.</string>
+    <string name="Contacto">Contacto</string>
+    <string name="sm">Serena es una chica de secundaria muy desobligada y poco dedicada, pero su vida cambiara cuando conozca a Luna una gata con poderes mágicos que la convertirá en una Sailor Scout, a su lado tendrá que luchar por la justicia en contra del Reino de la Oscuridad, en sus misiones cruzara camino con Tuxedo Mask un héroe enmascarado del quien pronto se enamorara. Posteriormente otras Sailor Scout se unirán a la lucha de Serena.</string>
+    <string name="dgc">Doraemon es un gato robot cósmico que viene del futuro, es amigo de Novita, un niño muy despistado y algo torpe, al cual ayudara con sus grandiosos inventos futuristas los cuales saca de su bolsillo mágico, de este modo tratara de evitar los problemas que él ha provocado en el futuro.</string>
+
+
+</resources>
